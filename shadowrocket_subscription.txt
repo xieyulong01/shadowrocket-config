@@ -1,0 +1,375 @@
+proxies:
+  # 土耳其代理节点
+  - name: 'Turkey1'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-3SKwEroYgV
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey2'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-kVsx2OjyH0
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey3'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-B5zxuXgKAG
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey4'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-YoSSIxjpaz
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey5'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-U79veRWjke
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey6'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-dbtuPFDq3F
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey7'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-hUywRneBdQ
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey8'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-BaXDv7dSjp
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey9'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-jZR8Hss58g
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey10'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-mFRZkLMAG1
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey11'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-AvWns48jqm
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey12'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-mf8nLHz1Lj
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey13'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-o2k79S4JQb
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey14'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-8o2HegomNE
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey15'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-eQttKVhKiK
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey16'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-tPnD7Kv4wN
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey17'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-p1vqSL8Pws
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey18'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-quEg82iNJm
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey19'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-Q6O7yISHrt
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'Turkey20'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-TR_session-De3QTFAoSO
+    password: xyl18267777297
+    dialer-proxy: providers
+
+  # 印度代理节点
+  - name: 'India1'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-zAX9gmddDF
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India2'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-MjYoDTBmKK
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India3'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-Yn8Y3ZWEXK
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India4'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-JNmKHOLBbW
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India5'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-1ZtvWUyn9R
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India6'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-3vpvNYywvW
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India7'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-odGEQ1OzIv
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India8'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-iq9ES1IhpU
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India9'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-yWWtVC5Tlt
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India10'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-u6KbqYjhWr
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India11'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-4kGY63POLF
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India12'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-eFothPxzbI
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India13'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-NEFJCLHrFo
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India14'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-zNmdhbRadC
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India15'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-qvHAzW0hK9
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India16'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-fkFqMCyhZR
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India17'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-Wx4oa6zBPr
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India18'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-bMMgR25vR3
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India19'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-fqMi60OaYn
+    password: xyl18267777297
+    dialer-proxy: providers
+  - name: 'India20'
+    type: socks5
+    server: proxy.iproyal.net
+    port: 9000
+    username: client-LONKIN_area-IN_session-3F2m3sOLgx
+    password: xyl18267777297
+    dialer-proxy: providers
+
+proxy-groups:
+  - name: providers
+    type: select
+    use:
+      - provider1
+  - name: 线路分流
+    type: select
+    proxies:
+      - 土耳其
+      - 印度
+  - name: 土耳其
+    type: select
+    proxies:
+      - Turkey1
+      - Turkey2
+      - Turkey3
+      - Turkey4
+      - Turkey5
+      - Turkey6
+      - Turkey7
+      - Turkey8
+      - Turkey9
+      - Turkey10
+      - Turkey11
+      - Turkey12
+      - Turkey13
+      - Turkey14
+      - Turkey15
+      - Turkey16
+      - Turkey17
+      - Turkey18
+      - Turkey19
+      - Turkey20
+  - name: 印度
+    type: select
+    proxies:
+      - India1
+      - India2
+      - India3
+      - India4
+      - India5
+      - India6
+      - India7
+      - India8
+      - India9
+      - India10
+      - India11
+      - India12
+      - India13
+      - India14
+      - India15
+      - India16
+      - India17
+      - India18
+      - India19
+      - India20
+
+
+proxy-providers:
+  provider1:
+            type: http
+            url: 'https://jif421.net/link/Jn9FHhHXtLETncix?clash=1'
+            interval: 86400
+            path: ./proxy_provider/jc.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204
+
+
+# 前置分流规则：手动选择流量路径
+rules:
+  # 用户手动选择代理时的分流
+  - MATCH,线路分流
+  - DOMAIN-SUFFIX,india.com,印度
+  - DOMAIN-SUFFIX,indianet.com,印度
+  - MATCH,印度
+  - DOMAIN-SUFFIX,turkey.com,土耳其
+  - DOMAIN-SUFFIX,turkishnet.com,土耳其
+  - MATCH,土耳其
+
+rule-providers:
+  private:
+    type: http
+    interval: 86400
+    behavior: domain
+    format: yaml
+    url: "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/private.yaml"
+
