@@ -1,0 +1,335 @@
+proxies:
+  # 土耳其代理节点
+  - name: "Turkey1"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey2"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey3"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey4"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey5"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey6"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey7"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey8"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey9"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey10"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey11"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey12"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey13"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey14"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey15"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey16"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey17"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey18"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey19"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "Turkey20"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+
+  # 印度代理节点
+ - name: "India1"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India2"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India3"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India4"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India5"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India6"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India7"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India8"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India9"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India10"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India11"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India12"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India13"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India14"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India15"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India16"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India17"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India18"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India19"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+  - name: "India20"
+    type: socks5
+    server: 167.235.26.46
+    port: 32325
+    username: rHYQ568q6wHPOGbt
+    password: fhdRkMuy97FE4QVO
+
+proxy-groups:
+  - name: providers
+    type: select
+    use:
+      - provider1
+  - name: 线路分流
+    type: select
+    proxies:
+      - 土耳其
+      - 印度
+  - name: 土耳其
+    type: select
+    proxies:
+      - Turkey1
+      - Turkey2
+      - Turkey3
+      - Turkey4
+      - Turkey5
+      - Turkey6
+      - Turkey7
+      - Turkey8
+      - Turkey9
+      - Turkey10
+      - Turkey11
+      - Turkey12
+      - Turkey13
+      - Turkey14
+      - Turkey15
+      - Turkey16
+      - Turkey17
+      - Turkey18
+      - Turkey19
+      - Turkey20
+  - name: 印度
+    type: select
+    proxies:
+      - India1
+      - India2
+      - India3
+      - India4
+      - India5
+      - India6
+      - India7
+      - India8
+      - India9
+      - India10
+      - India11
+      - India12
+      - India13
+      - India14
+      - India15
+      - India16
+      - India17
+      - India18
+      - India19
+      - India20
+
+
+proxy-providers:
+  provider1:
+            type: http
+            url: 'https://jif421.net/link/Jn9FHhHXtLETncix?clash=1'
+            interval: 86400
+            path: ./proxy_provider/jc.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204
+
+
+# 前置分流规则：手动选择流量路径
+rules:
+  # 用户手动选择代理时的分流
+  - MATCH,线路分流
+  - DOMAIN-SUFFIX,india.com,印度
+  - DOMAIN-SUFFIX,indianet.com,印度
+  - MATCH,印度
+  - DOMAIN-SUFFIX,turkey.com,土耳其
+  - DOMAIN-SUFFIX,turkishnet.com,土耳其
+  - MATCH,土耳其
+
+rule-providers:
+  private:
+    type: http
+    interval: 86400
+    behavior: domain
+    format: yaml
+    url: "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/private.yaml"
+
